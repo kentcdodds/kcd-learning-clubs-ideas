@@ -42,6 +42,23 @@ If you'd like to add/edit a curriculum idea below, follow these steps:
    following the format of the others
 3. Click "Propose file change" to make a pull request
 
+## FAQ:
+
+### What constitutes "curriculum?"
+
+Anything that a group of people could go through together (whether
+synchronously, asynchronously, or a mix of the two). Including things like:
+
+- Online courses
+- Books
+- Tutorials
+- Podcasts
+- Workshop material
+
+What's important is that it's something that you can actually create a schedule
+for and have some "learning activities" you can participate in together or
+discuss.
+
 ## Curriculum and Templates
 
 <!--
