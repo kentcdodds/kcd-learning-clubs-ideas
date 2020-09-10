@@ -74,6 +74,14 @@ Templates:
 
 -->
 
+### [Base_cs](https://github.com/vaidehijoshi/basecs-series) 🏆
+
+Learn the basics of computer science with Base_cs series
+
+Templates:
+
+- [Basecs.txt](templates/Basecs.txt)
+
 ### [EpicReact.Dev](https://epicreact.dev) ⚛️
 
 The Most Comprehensive Guide to React for Professional Developers
@@ -98,11 +106,3 @@ Templates:
 
 - [testingjavascript.txt](templates/testingjavascript.txt)
 ideatemplate)?
-
-### [Base_cs](https://github.com/vaidehijoshi/basecs-series) 🏆
-
-Learn the basics of computer science with Base_cs series
-
-Templates:
-
-- [Basecs.txt](templates/Basecs.txt)
