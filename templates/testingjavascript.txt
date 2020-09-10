@@ -1,0 +1,25 @@
+Learning Goal: Master testing JavaScript applications (frontend and backend) with Jest and Cypress.
+
+Learning Curriculum: TestingJavaScript.com
+
+Special Requirements:
+- Basic knowledge of JS, Node, and React
+- Pro License to TestingJavaScript.com
+
+Schedule:
+{Day of the week} {time of day} {timezone}
+- Week 1: Fundamentals of Testing in JavaScript & JavaScript Mocking Fundamentals
+- Week 2: Static Analysis Testing JavaScript Applications
+- Week 3: Configure Jest for Testing JavaScript Applications
+- Week 4: Use DOM Testing Library to test any JS framework
+- Week 5: Test React Components with Jest and React Testing Library (1-18)
+- Week 6: Test React Components with Jest and React Testing Library (19-41)
+- Week 7: Install, Configure, and Script Cypress for JavaScript Web Applications
+- Week 8: Test Node.js Backends (1-23)
+- Week 9: Test Node.js Backends (24-40)
+
+Meetings are Sync: Yes
+
+Club Captain: {Your Name} ({your#discord})
+
+Learn more about KCD Learning Clubs: https://kcd.im/clubs
