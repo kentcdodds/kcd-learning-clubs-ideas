@@ -97,3 +97,12 @@ Learn the smart, efficient way to test any JavaScript application.
 Templates:
 
 - [testingjavascript.txt](templates/testingjavascript.txt)
+ideatemplate)?
+
+### [Base_cs](https://github.com/vaidehijoshi/basecs-series) 🏆
+
+Learn the basics of computer science with Base_cs series
+
+Templates:
+
+- [Basecs.txt](templates/Basecs.txt)
