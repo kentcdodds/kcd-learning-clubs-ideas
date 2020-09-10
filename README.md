@@ -105,4 +105,4 @@ Learn the smart, efficient way to test any JavaScript application.
 Templates:
 
 - [testingjavascript.txt](templates/testingjavascript.txt)
-ideatemplate)?
+
