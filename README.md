@@ -50,7 +50,7 @@ The Most Comprehensive Guide to React for Professional Developers
 
 Templates:
 
-- No templates yet, [want to create one](#add-a-curriculum-idea-template)?
+- No templates yet, [want to create one](#add-a-curriculum-ideatemplate)?
 
 ### [Rustlings](https://github.com/rust-lang/rustlings) 🦀
 
@@ -58,7 +58,7 @@ Small exercises to get you used to reading and writing Rust code!
 
 Templates:
 
-- No templates yet, [want to create one](#add-a-curriculum-idea-template)?
+- No templates yet, [want to create one](#add-a-curriculum-ideatemplate)?
 
 ### [TestingJavaScript.com](https://testingjavascript.com) 🏆
 
