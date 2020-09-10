@@ -1,0 +1,23 @@
+Learning Goal: {Summary of the learning goals for the club}
+
+Learning Curriculum: {Link to the learning resource/course/blog series}
+
+Special Requirements:
+- {Requirement 1}
+- {Requirement 2}
+- ... etc
+
+DELETE THIS LINE: If your meetings are synchronous, then make sure to include the day of the week, time of day, and timezone as part of the schedule!
+
+Schedule:
+1. {Topic}
+2. {Topic}
+3. {Topic}
+4. {Topic}
+5. ...etc
+
+Meetings are Sync: {Yes or No}
+
+Club Captain: {captain's name} ({captain's discord username})
+
+Learn more about KCD Learning Clubs: https://kcd.im/clubs
