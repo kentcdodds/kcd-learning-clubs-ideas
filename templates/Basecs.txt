@@ -1,20 +1,12 @@
 Learning Goal: Learn the basics of computer science with Base_cs series
 
-Learning Curriculum:
+Learning Curriculum: https://github.com/vaidehijoshi/basecs-series
 
-Schedule its based on the first link, a compiled list of base_cs series content. The rest of links are other forms of the content to support our learning
-
-- Github Repo
-  Link: https://github.com/vaidehijoshi/basecs-series
-- Podcast
-  Link: https://overcast.fm/itunes1304168963/base-cs-podcast
-- Video Series- Season 1
-  Link: https://www.youtube.com/watch?v=Po1nQOBBig0&list=PL8Bb2WLXhUaDaL2PlxP_jpAm2sSKEJ0hS
-- Video Series - Season 2
-  Link: https://www.youtube.com/watch?v=GVHmKg8OsEQ&list=PL8Bb2WLXhUaChUH8o42PjJA8zCkfcR7nT
+Special Requirements:
+- None
 
 Schedule:
-
+{Day of the week} {time of day} {timezone}
 Week 1
 - Bits, Bytes, Building With Binary
   Link: https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa
@@ -154,3 +146,22 @@ Week 23
   Link: https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
 - A Most Perfect Union: Just-In-Time Compilers
   Link: https://medium.com/basecs/a-most-perfect-union-just-in-time-compilers-2938712a9f6a
+
+Meetings are Sync: Yes
+
+Club Captain: {captain's name} ({captain's discord username})
+
+Learn more about KCD Learning Clubs: https://kcd.im/clubs
+
+Notes:
+
+Schedule its based on the first link, a compiled list of base_cs series content. The rest of links are other forms of the content to support our learning
+
+- Github Repo
+  Link: https://github.com/vaidehijoshi/basecs-series
+- Podcast
+  Link: https://overcast.fm/itunes1304168963/base-cs-podcast
+- Video Series- Season 1
+  Link: https://www.youtube.com/watch?v=Po1nQOBBig0&list=PL8Bb2WLXhUaDaL2PlxP_jpAm2sSKEJ0hS
+- Video Series - Season 2
+  Link: https://www.youtube.com/watch?v=GVHmKg8OsEQ&list=PL8Bb2WLXhUaChUH8o42PjJA8zCkfcR7nT
