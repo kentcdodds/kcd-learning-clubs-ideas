@@ -44,6 +44,19 @@ If you'd like to add/edit a curriculum idea below, follow these steps:
 
 ## Curriculum and Templates
 
+<!--
+Example for you to copy/paste:
+
+### [Name of Curriculum](https://linktocurriculum.example.com)
+
+Curriculum summary/tagline
+
+Templates:
+
+- No templates yet, [want to create one](#add-a-curriculum-ideatemplate)?
+
+-->
+
 ### [EpicReact.Dev](https://epicreact.dev) ⚛️
 
 The Most Comprehensive Guide to React for Professional Developers
