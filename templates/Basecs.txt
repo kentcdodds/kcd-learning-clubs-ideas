@@ -1,0 +1,167 @@
+Learning Goal: Learn the basics of computer science with Base_cs series
+
+Learning Curriculum: https://github.com/vaidehijoshi/basecs-series
+
+Special Requirements:
+- None
+
+Schedule:
+{Day of the week} {time of day} {timezone}
+Week 1
+- Bits, Bytes, Building With Binary
+  Link: https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa
+- Hexes and Other Magical Numbers
+  Link: https://medium.com/basecs/hexs-and-other-magical-numbers-9785bc26b7ee
+
+Week 2
+- What’s a Linked List, Anyway? (Part 1)
+  Link: https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d
+- What’s a Linked List, Anyway? (Part 2)
+  Link: https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996
+- Stacks and Overflows
+  Link: https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67
+
+Week 3
+- To Queue Or Not To Queue
+  Link: https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04
+- How To Not Be Stumped By Trees
+  Link: https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7
+
+Week 4
+- Leaf It Up To Binary Trees
+  Link: https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d
+- Looking For The Logic Behind Logarithms
+  Link: https://medium.com/basecs/looking-for-the-logic-behind-logarithms-9e79d7666dda
+
+Week 5
+- A Gentle Introduction To Graph Theory
+  Link: https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8
+- Königsberg: Seven Small Bridges, One Giant Graph Problem
+  Link: https://medium.com/basecs/k%C3%B6nigsberg-seven-small-bridges-one-giant-graph-problem-2275d1670a12
+
+Week 6
+- Demystifying Depth-First Search
+  Link: https://medium.com/basecs/demystifying-depth-first-search-a7c14cccf056
+- Breaking Down Breadth-First Search
+  Link: https://medium.com/basecs/breaking-down-breadth-first-search-cebe696709d9
+
+Week 7
+- Taking Hash Tables Off The Shelf
+  Link: https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0
+- Hashing Out Hash Functions
+  Link: https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd
+
+Week 8
+- Set Theory: the Method To Database Madness
+  Link: https://medium.com/basecs/set-theory-the-method-to-database-madness-5ec4b4f05d79
+- Sorting Out The Basics Behind Sorting Algorithms
+  Link: https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add
+
+Week 9
+- Exponentially Easy Selection Sort
+  Link: https://medium.com/basecs/exponentially-easy-selection-sort-d7a34292b049
+- Bubbling Up With Bubble Sorts
+  Link: https://medium.com/basecs/bubbling-up-with-bubble-sorts-3df5ac88e592
+
+Week 10
+- Inching Towards Insertion Sort
+  Link: https://medium.com/basecs/inching-towards-insertion-sort-9799274430da
+- Making Sense of Merge Sort (Part 1)
+  Link: https://medium.com/basecs/making-sense-of-merge-sort-part-1-49649a143478
+
+Week 11
+- Making Sense of Merge Sort (Part 2)
+  Link: https://medium.com/basecs/making-sense-of-merge-sort-part-2-be8706453209
+- Pivoting To Understand Quicksort (Part 1)
+  Link: https://medium.com/basecs/pivoting-to-understand-quicksort-part-1-75178dfb9313
+
+Week 12
+- Pivoting To Understand Quicksort (Part 2)
+  Link: https://medium.com/basecs/pivoting-to-understand-quicksort-part-2-30161aefe1d3
+- Learning to Love Heaps
+  Link: https://medium.com/basecs/learning-to-love-heaps-cef2b273a238
+
+Week 13
+- Heapify All The Things With Heap Sort
+  Link: https://medium.com/basecs/heapify-all-the-things-with-heap-sort-55ee1c93af82
+- Counting Linearly With Counting Sort
+  Link: https://medium.com/basecs/counting-linearly-with-counting-sort-cd8516ae09b3
+
+Week 14
+- Getting To The Root Of Sorting With Radix Sort
+  Link: https://medium.com/basecs/getting-to-the-root-of-sorting-with-radix-sort-f8e9240d4224
+- Trying to Understand Tries
+  Link: https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014
+
+Week 15
+- Compressing Radix Trees Without (Too Many) Tears
+  Link: https://medium.com/basecs/compressing-radix-trees-without-too-many-tears-a2e658adb9a0
+- The Little AVL Tree That Could
+  Link: https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae410c7
+
+Week 16
+- Finding Fibonacci In Golden Trees
+  Link: https://medium.com/basecs/finding-fibonacci-in-golden-trees-1c8967b1f47a
+- Painting Nodes Black With Red-Black Trees
+  Link: https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5
+
+Week 17
+- Busying Oneself With B-Trees
+  Link: https://medium.com/basecs/busying-oneself-with-b-trees-78bbf10522e7
+- From Theory To Practice: Representing Graphs
+  Link: https://medium.com/basecs/from-theory-to-practice-representing-graphs-cfd782c5be38
+
+Week 18
+- Going Broad In A Graph: BFS Traversal
+  Link: https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255
+- Deep Dive Through A Graph: DFS Traversal
+  Link: https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13
+
+Week 19
+- Spinning Around In Cycles With Directed Acyclic Graphs
+  Link: https://medium.com/basecs/spinning-around-in-cycles-with-directed-acyclic-graphs-a233496d4688
+- Finding The Shortest Path, With A Little Help From Dijkstra
+  Link: https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e
+
+Week 20
+- Less Repetition, More Dynamic Programming
+  Link: https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630
+- The Trials And Tribulations Of The Traveling Salesman
+  Link: https://medium.com/basecs/the-trials-and-tribulations-of-the-traveling-salesman-56048d6709d
+
+Week 21
+- Speeding Up The Traveling Salesman Using Dynamic Programming
+  Link: https://medium.com/basecs/speeding-up-the-traveling-salesman-using-dynamic-programming-b76d7552e8dd
+- Grammatically Rooting Oneself With Parse Trees
+  Link: https://medium.com/basecs/grammatically-rooting-oneself-with-parse-trees-ec9daeda7dad
+
+Week 22
+- Reading Code Right, With Some Help From The Lexer
+  Link: https://medium.com/basecs/reading-code-right-with-some-help-from-the-lexer-63d0be3d21d
+- Leveling Up One’s Parsing Game With ASTs
+  Link: https://medium.com/basecs/leveling-up-ones-parsing-game-with-asts-d7a6fc2400ff
+
+Week 23
+- A Deeper Inspection Into Compilation And Interpretation
+  Link: https://medium.com/basecs/a-deeper-inspection-into-compilation-and-interpretation-d98952ebc842
+- A Most Perfect Union: Just-In-Time Compilers
+  Link: https://medium.com/basecs/a-most-perfect-union-just-in-time-compilers-2938712a9f6a
+
+Meetings are Sync: Yes
+
+Club Captain: {captain's name} ({captain's discord username})
+
+Learn more about KCD Learning Clubs: https://kcd.im/clubs
+
+Notes:
+
+Schedule its based on the first link, a compiled list of base_cs series content. The rest of links are other forms of the content to support our learning
+
+- Github Repo
+  Link: https://github.com/vaidehijoshi/basecs-series
+- Podcast
+  Link: https://overcast.fm/itunes1304168963/base-cs-podcast
+- Video Series- Season 1
+  Link: https://www.youtube.com/watch?v=Po1nQOBBig0&list=PL8Bb2WLXhUaDaL2PlxP_jpAm2sSKEJ0hS
+- Video Series - Season 2
+  Link: https://www.youtube.com/watch?v=GVHmKg8OsEQ&list=PL8Bb2WLXhUaChUH8o42PjJA8zCkfcR7nT
