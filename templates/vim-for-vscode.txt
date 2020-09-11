@@ -4,6 +4,7 @@ Learning Curriculum: https://vimforvscode.com/
 
 Special Requirements:
 - VSCode
+- a copy of the [course](https://vimforvscode.com/) (PPP supported and student discounts available) 
 
 Schedule:
 The Club will last 6 days, from {Day of Week Month Day} to {Day of Week Month Day}.
