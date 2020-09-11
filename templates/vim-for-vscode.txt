@@ -1,0 +1,27 @@
+Learning Goal: Learn how to use Vim with VS Code
+
+Learning Curriculum: https://vimforvscode.com/
+
+Special Requirements:
+- VSCode
+- a copy of the [course](https://vimforvscode.com/) (PPP supported and student discounts available) 
+
+Schedule:
+The Club will last 6 days, from {Day of Week Month Day} to {Day of Week Month Day}.
+
+The only commitment is to leave at least one comment in the Club, at the end of the day for each section. The comment will act as proof of your participation.  The section cadence is as follows:
+
+Day 1-2: Finish the "Navigation" section.
+Day 3: Finish the "Editing" section.
+Day 4: Finish the "Moving" section.
+Day 5: Finish the "Advanced" section.
+
+NOTE: This club is meant to by "asynchronous". There are no set meetings. It is designed to be fluid, and accommodating to peoples schedules, as some may not have blocks of time to go over the material, and attend meetings.
+
+In spite of only requiring one comment in the Club, per section, you are encouraged to speak openly, ask questions, and give support/feedback. Feel free to share the things that help you memorize the commands, any keyboard mappings you may have that helps, or anything else that you think would be helpfu
+
+Meetings are Sync: No
+
+Club Captain: {captain's name} ({captain's discord username})
+
+Learn more about KCD Learning Clubs: https://kcd.im/clubs
