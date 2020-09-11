@@ -106,3 +106,11 @@ Templates:
 
 - [testingjavascript.txt](templates/testingjavascript.txt)
 
+### [Vim for VSCode](https://vimforvscode.com) ⌨️
+
+Learn how to use Vim with VSCode
+
+Templates:
+
+- [vim-for-vscode.txt](templates/vim-for-vscode.txt)
+
