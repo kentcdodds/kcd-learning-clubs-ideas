@@ -1,0 +1,44 @@
+Learning Goal: Develop the skills to build rock solid, maintainable React applications.
+
+Learning Curriculum: EpicReact.Dev
+
+Special Requirements:
+- Basic knowledge of JS, HTML, and CSS
+- Pro License to https://EpicReact.Dev
+
+Schedule:
+{Day of the week} {time of day} {timezone}
+- Week 0 (before the first meeting): Welcome to Epic React (watch the intro and setup videos)
+- Week 1: React Fundamentals
+- Week 2: React Hooks
+- Week 3: Build an Epic React App Part 1:
+  - Render a React App
+  - Add Styles
+  - Make HTTP Requests
+- Week 4: Advanced React Hooks
+- Week 5: Build an Epic React App Part 2:
+  - Authentication
+  - Routing
+- Week 6: Advanced React Patterns
+- Week 7: Build an Epic React App Part 3:
+  - Cache Management
+- Week 8: Build an Epic React App Part 4:
+  - Context
+  - Compound Components
+- Week 9: React Performance
+- Week 10: Build an Epic React App Part 5:
+  - Performance
+- Week 11: Testing React Apps
+- Week 12: Build an Epic React App Part 6:
+  - Unit Testing
+  - Testing Hooks and Components
+- Week 13: Build an Epic React App Part 7:
+  - Integration Testing
+  - E2E Testing
+- Week 14 (Bonus): React Suspense
+
+Meetings are Sync: Yes
+
+Club Captain: {Your Name} ({your#discord})
+
+Learn more about KCD Learning Clubs: https://kcd.im/clubs
