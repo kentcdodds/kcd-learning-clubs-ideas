@@ -88,7 +88,7 @@ The Most Comprehensive Guide to React for Professional Developers
 
 Templates:
 
-- No templates yet, [want to create one](#add-a-curriculum-ideatemplate)?
+- [epicreact-dev.txt](templates/epicreact-dev.txt)
 
 ### [Rustlings](https://github.com/rust-lang/rustlings) 🦀
 
