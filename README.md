@@ -19,7 +19,7 @@ follow these steps:
    [`#🤖-talk-to-bots`](https://kcd.im/discord-talk-to-bots) channel in the
    [KCD Discord](https://kentcdodds.com/discord) and type:
    `?clubs create FORM_LINK` to get it listed in the
-   [`#📝-active-clubs`](https://kcd.im/discord-active-clubs).
+   [`#📝-open-clubs`](https://kcd.im/discord-active-clubs).
 
 Learn more about this process and how these clubs work at
 [kentcdodds.com/clubs](https://kentcdodds.com/clubs).
