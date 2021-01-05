@@ -114,3 +114,11 @@ Templates:
 
 - [vim-for-vscode.txt](templates/vim-for-vscode.txt)
 
+### [Vim Alphabet](youtube.com/playlist?list=PLnc_NxpmOxaNqdGvUg8RBi8ZTaZGPdqBD)
+
+Learn the basics of Vim by learnin the commands from A - Z.
+
+Templates:
+
+- [vim-alphabet.txt](templates/vim-alphabet.txt)
+
