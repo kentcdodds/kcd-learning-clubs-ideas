@@ -28,6 +28,7 @@ Schedule:
 - Week 9: React Performance
 - Week 10: Build an Epic React App Part 5:
   - Performance
+  - Render as You Fetch
 - Week 11: Testing React Apps
 - Week 12: Build an Epic React App Part 6:
   - Unit Testing
